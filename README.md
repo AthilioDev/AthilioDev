@@ -1,6 +1,6 @@
 💫 Sobre Mim:
 
-👋 Olá! Meu nome é Athilio, tenho 13 anos e comecei na área de TI aos 10, explorando por conta própria o desenvolvimento de servidores no FiveM. Ainda não faço cursos formais, mas estou sempre aprendendo por curiosidade e prática, buscando evoluir, enfrentar desafios e me aprofundar em novos projetos de programação.
+👋 Olá! Meu nome é Athilio, tenho 13 anos e comecei na área de TI aos 11, explorando por conta própria o desenvolvimento de servidores no FiveM. Ainda não faço cursos formais, mas estou sempre aprendendo por curiosidade e prática, buscando evoluir, enfrentar desafios e me aprofundar em novos projetos de programação.
 
 🌐 Redes Sociais:
 
