@@ -17,4 +17,5 @@
 ![Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 💻 Linguagem Exata: Linguagem que eu estou trabalhando nesse exato momento... 
+
 [![.LUA](https://camo.githubusercontent.com/de04bdc93d7c7da16e87e057b7de10f8d394fe3df1317e99bb9cbf2eb002bf5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465)](https://discord.gg/mrB2XccvXt)
