@@ -1,4 +1,5 @@
 
+
 💫 **Sobre Mim:**
 
 👋 Olá! Meu nome é Athilio, tenho 13 anos e comecei na área de TI aos 11, explorando por conta própria o desenvolvimento de servidores no FiveM. Ainda não faço cursos formais, mas estou sempre aprendendo por curiosidade e prática, buscando evoluir, enfrentar desafios e me aprofundar em novos projetos de programação.
@@ -32,5 +33,12 @@ No momento, estou concentrado em aprimorar meus conhecimentos e desenvolver proj
 ---
 
 > "Possuo diversos projetos de grande porte, porém eles são privados, pois contêm códigos sensíveis de empresas e clientes."
->
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirelliDev&show_icons=true&theme=radical&hide_title=true)](https://github.com/AthilioDev)  tesadsadasdsadsadsadsadsadasdasdsadass testeee
+
+---
+
+📊 **Estatísticas (ou: evidências empíricas)**
+
+> Existe só para “encher portfólio”.
+> Se os números pararem de subir, provavelmente estou trabalhando offline, em silêncio, como bom engenheiro suspeito.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthilioDev\&show_icons=true\&theme=radical\&hide_title=true)](https://github.com/AthilioDev)
