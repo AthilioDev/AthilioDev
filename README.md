@@ -23,3 +23,7 @@ No momento, estou concentrado em aprimorar meus conhecimentos e desenvolver proj
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://discord.gg/mrB2XccvXt)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)](https://discord.gg/mrB2XccvXt)
 
+---
+
+> "Possuo diversos projetos de grande porte, porém eles são privados, pois contêm códigos sensíveis de empresas e clientes."
+
