@@ -1,25 +1,33 @@
-💫 Sobre Mim:
+Perfeito! Vou organizar o seu perfil e corrigir as logos para que fiquem consistentes com as linguagens corretas, usando ícones oficiais e mantendo o visual padronizado. Aqui está a versão revisada:
+
+---
+
+💫 **Sobre Mim:**
 
 👋 Olá! Meu nome é Athilio, tenho 13 anos e comecei na área de TI aos 11, explorando por conta própria o desenvolvimento de servidores no FiveM. Ainda não faço cursos formais, mas estou sempre aprendendo por curiosidade e prática, buscando evoluir, enfrentar desafios e me aprofundar em novos projetos de programação.
 
-🌐 Redes Sociais:
+🌐 **Redes Sociais:**
 
-[![Discord](https://camo.githubusercontent.com/7c80e7e5644b591e16ef6dd9abdf7bd45c04f25e425cd66760ce1fcecac06262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333732383944412e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/mrB2XccvXt)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/mrB2XccvXt)
 
-
-💻 Linguagem Exata: Linguagem em Foco (Atualmente em Uso)
+💻 **Linguagem Exata: Linguagem em Foco (Atualmente em Uso)**
 
 No momento, estou concentrado em aprimorar meus conhecimentos e desenvolver projetos utilizando principalmente:
 
-[![.LUA](https://camo.githubusercontent.com/de04bdc93d7c7da16e87e057b7de10f8d394fe3df1317e99bb9cbf2eb002bf5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465)](https://discord.gg/mrB2XccvXt)
-[![JavaScript](https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)](https://discord.gg/mrB2XccvXt)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)](https://discord.gg/mrB2XccvXt)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://discord.gg/mrB2XccvXt)
 
-💻 Linguagens: Com as Quais Trabalho
+💻 **Linguagens com as Quais Trabalho:**
 
-[![JavaScript](https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)](https://discord.gg/mrB2XccvXt)
-[![.LUA](https://camo.githubusercontent.com/de04bdc93d7c7da16e87e057b7de10f8d394fe3df1317e99bb9cbf2eb002bf5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465)](https://discord.gg/mrB2XccvXt)
-[![PYTHON](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)](https://discord.gg/mrB2XccvXt)
-[![APACHE](https://camo.githubusercontent.com/6b277c2c0f4a41d96fd322ea28be0a9757b382404e90573a0e79edbc990e979a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6170616368652d2532334434323032392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865266c6f676f436f6c6f723d7768697465)](https://discord.gg/mrB2XccvXt)
-[![MYSQL](https://camo.githubusercontent.com/38ce4d8be94d27406f2989b56efec7cdc5e2c2d6509600746fede440245c5afa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)](https://discord.gg/mrB2XccvXt)
-![Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://discord.gg/mrB2XccvXt)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)](https://discord.gg/mrB2XccvXt)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://discord.gg/mrB2XccvXt)
+[![Apache](https://img.shields.io/badge/Apache-CA0D0D?style=for-the-badge\&logo=apache\&logoColor=white)](https://discord.gg/mrB2XccvXt)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://discord.gg/mrB2XccvXt)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)](https://discord.gg/mrB2XccvXt)
 
+---
+
+Se você quiser, posso também **dar uma versão ainda mais estilizada**, com cores combinando entre linguagens e separando “em foco” e “outras que uso”, deixando visualmente mais clean e profissional para GitHub ou portfólio.
+
+Quer que eu faça isso?
