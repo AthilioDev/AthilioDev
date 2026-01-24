@@ -32,3 +32,5 @@ No momento, estou concentrado em aprimorar meus conhecimentos e desenvolver proj
 ---
 
 > "Possuo diversos projetos de grande porte, porém eles são privados, pois contêm códigos sensíveis de empresas e clientes."
+>
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirelliDev&show_icons=true&theme=radical&hide_title=true)](https://github.com/AthilioDev) 
