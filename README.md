@@ -1,6 +1,3 @@
-Perfeito! Vou organizar o seu perfil e corrigir as logos para que fiquem consistentes com as linguagens corretas, usando ícones oficiais e mantendo o visual padronizado. Aqui está a versão revisada:
-
----
 
 💫 **Sobre Mim:**
 
@@ -26,8 +23,3 @@ No momento, estou concentrado em aprimorar meus conhecimentos e desenvolver proj
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://discord.gg/mrB2XccvXt)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)](https://discord.gg/mrB2XccvXt)
 
----
-
-Se você quiser, posso também **dar uma versão ainda mais estilizada**, com cores combinando entre linguagens e separando “em foco” e “outras que uso”, deixando visualmente mais clean e profissional para GitHub ou portfólio.
-
-Quer que eu faça isso?
