@@ -41,4 +41,4 @@ No momento, estou concentrado em aprimorar meus conhecimentos e desenvolver proj
 > Existe só para “encher portfólio”.
 > Se os números pararem de subir, provavelmente estou trabalhando offline, em silêncio, como bom engenheiro suspeito.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthilioDev\&show_icons=true\&theme=radical\&hide_title=true)](https://github.com/AthilioDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthilioDev\&show_icons=true\&theme=radical\&hide_title=true)](https://github.com/AthilioDev) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AthilioDev&show_icons=true&count_private=true&theme=radical)](https://github.com/AthilioDev)
