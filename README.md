@@ -62,7 +62,6 @@ Trabalho constantemente em **projetos de médio e grande porte**, muitos deles p
 > mas ajudam a confirmar consistência.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthilioDev\&show_icons=true\&theme=radical\&hide_title=true)](https://github.com/AthilioDev)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AthilioDev\&show_icons=true\&count_private=true\&theme=radical)](https://github.com/AthilioDev)
 
 ---
 
