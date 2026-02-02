@@ -85,7 +85,6 @@ Trabalho constantemente em **projetos de médio e grande porte**, muitos deles p
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AthilioDev&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthilioDev&theme=radical&hide_title=true)
 
 ---
 
