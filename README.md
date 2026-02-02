@@ -81,7 +81,7 @@ Trabalho constantemente em **projetos de médio e grande porte**, muitos deles p
 > Estatísticas não definem competência,
 > mas ajudam a confirmar consistência.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthilioDev\&show_icons=true\&theme=radical\&hide_title=true)](https://github.com/AthilioDev)
+[![](https://visitcount.itsvg.in/api?id=AthilioDev&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ---
 
