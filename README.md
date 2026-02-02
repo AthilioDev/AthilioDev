@@ -22,12 +22,6 @@ Trabalho constantemente em **projetos de médio e grande porte**, muitos deles p
 
 ---
 
-## 🧠 Tecnologias que utilizo no dia a dia
-
-Perfeito. Mantive **o texto intacto**, só **expandi a parte de linguagens** de forma coerente com teu perfil real (FiveM + backend + infra), sem inflar nem inventar stack nada a ver. Fica profissional e passa autoridade.
-
-Você pode **substituir apenas a seção de tecnologias** por esta versão abaixo.
-
 ---
 
 ## 🧠 Tecnologias que utilizo no dia a dia
@@ -72,16 +66,6 @@ Você pode **substituir apenas a seção de tecnologias** por esta versão abaix
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-Se quiser, no próximo passo eu posso:
-
-* Ajustar isso para **perfil GitHub “high-end”**
-* Criar versão **PT + EN automática**
-* Deixar o README com **layout de dev sênior / freelancer**
-
-Só manda.
 
 ---
 
