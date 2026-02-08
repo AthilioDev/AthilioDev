@@ -8,22 +8,24 @@ Sistemas completos, rápidos e bem arquitetados.
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,react,vite,express,mysql,mariadb,sqlite,linux,git" height="55" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,react,vite,express,nextjs,html,css,tailwind,mysql,postgres,sqlite,redis,linux,git,github,docker" height="55" />
 </div>
 
 ---
 
 ## 🚀 O que faço
-- Scripts e sistemas em **Lua (FiveM)**
+- Scripts e sistemas avançados em **Lua (FiveM)**
 - Backend com **Node.js / TypeScript**
-- Front com **React + Vite**
-- Integrações **FiveM ↔ APIs ↔ 🗄️ Banco de dados**
-- Infra em **Linux 🐧**
+- Frontend com **React, Vite e Next.js**
+- Integrações **FiveM ↔ APIs ↔ 🗄️ Bancos de dados**
+- Infra e deploy em **Linux 🐧**
+- Código limpo, organizado e otimizado
 
 ---
 
 ## 🔒 Projetos
-> A maioria é privada por contrato.
+> Grande parte dos projetos é privada por contrato  
+> (código proprietário e integrações sensíveis).
 
 ---
 
