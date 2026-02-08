@@ -18,13 +18,13 @@ Sistemas completos, rápidos e bem arquitetados.
 - Backend com **Node.js / TypeScript**
 - Frontend com **React, Vite e Next.js**
 - Integrações **FiveM ↔ APIs ↔ 🗄️ Bancos de dados**
-- Infra e deploy em **Linux 🐧**
+- Infra, deploy e automações em **Linux 🐧**
 - Código limpo, organizado e otimizado
 
 ---
 
 ## 🔒 Projetos
-> Grande parte dos projetos é privada por contrato  
+> A maioria dos projetos é privada por contrato  
 > (código proprietário e integrações sensíveis).
 
 ---
@@ -32,6 +32,16 @@ Sistemas completos, rápidos e bem arquitetados.
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=AthilioDev&theme=dark&hide_border=true" height="150"/>
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AthilioDev/AthilioDev/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AthilioDev/AthilioDev/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AthilioDev/AthilioDev/output/pacman.svg">
+</picture>
+
+---
 
 <p align="center">
   <a href="https://discord.gg/mrB2XccvXt">
