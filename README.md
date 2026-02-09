@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up??</h1>
 
 <p align="center">
 Sou <b>Athilio</b>, dev focado em <b>Lua para FiveM</b> e <b>Backend</b>.<br/>
