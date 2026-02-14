@@ -1,4 +1,4 @@
-# ⚙️ Athilio — Software Engineer | FiveM & Backend Architectt
+# ⚙️ Athilio — Software Engineer | FiveM & Backend Architect
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AthilioDev\&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/AthilioDev?style=flat-square)
