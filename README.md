@@ -118,7 +118,7 @@ Nada aqui é script solto.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AthilioDev&show_icons=true&theme=dark&hide_title=true"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthilioDev&layout=compact&theme=dark"/>
 </p>
 
