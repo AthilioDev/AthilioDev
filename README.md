@@ -117,10 +117,9 @@ Nada aqui é script solto.
 
 ## 📊 Estatísticas
 
-<p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthilioDev&layout=compact&theme=dark"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>>
 
 ---
 
