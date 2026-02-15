@@ -1,125 +1,48 @@
-# ⚙️ Athilio — Software Engineer | FiveM & Backend Architect
+# ⚙️ Athilio — Software Engineer | FiveM & Backend
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AthilioDev\&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/AthilioDev?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/AthilioDev?style=flat-square)
 
-Desenvolvedor especializado em **Lua para FiveM e engenharia de backend moderna**.
-Construo sistemas com foco em **performance, previsibilidade e arquitetura sólida**.
-
-Se roda em produção, precisa ser estável.
-Se escala, precisa ter sido planejado.
+Desenvolvedor especializado em **Lua para FiveM e backend moderno**.
+Foco em **performance, estabilidade e arquitetura escalável**.
 
 ---
 
 ## 🧠 Sobre mim
 
-Atuo desenvolvendo **sistemas completos para servidores FiveM**, integrações com APIs externas e aplicações web de suporte administrativo.
+Desenvolvo **sistemas completos para servidores FiveM**, APIs externas e painéis administrativos.
+Minha prioridade: **funcionar bem, seguro e pronto para crescer**.
 
-Meu foco não é apenas “fazer funcionar”.
-É fazer funcionar **bem estruturado, seguro e preparado para crescer**.
-
-### Mentalidade técnica:
+**Princípios:**
 
 * Arquitetura antes de feature
 * Performance antes de hype
 * Organização antes de pressa
 * Segurança antes de deploy
 
-Código precisa sobreviver a manutenção.
-E manutenção sempre vem.
-
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Stack
 
-### 🔹 FiveM & Game Systems
-
-* Lua (arquitetura modular)
-* Integração com frameworks (ESX / QBCore)
-* Sistemas persistentes e escaláveis
-* Comunicação FiveM ↔ APIs externas
-
-Sistemas de cidade não podem travar porque alguém abriu inventário.
-
----
-
-### 🔹 Backend
-
-* Node.js
-* TypeScript
-* Express / Fastify
-* Autenticação JWT
-* WebSockets
-* Arquitetura em camadas
-
-API boa é aquela que ninguém percebe.
-Ela simplesmente responde.
-
----
-
-### 🔹 Frontend
-
-* React
-* Vite
-* Next.js
-* TailwindCSS
-
-Interfaces administrativas limpas, rápidas e objetivas.
-Sem complexidade desnecessária.
-
----
-
-### 🔹 Banco de Dados
-
-* MySQL
-* PostgreSQL
-* SQLite
-* Redis
-
-Modelagem consistente.
-Queries otimizadas.
-Índices planejados.
-Nada de SELECT * em produção.
-
----
-
-### 🔹 Infraestrutura
-
-* Linux
-* Docker
-* Git
-* GitHub Actions
-
-Deploy previsível.
-Ambiente controlado.
-Rollback possível.
-
-Se algo cair, sei exatamente onde olhar.
+**FiveM & Game Systems:** Lua, ESX/QBCore, sistemas persistentes e escaláveis.
+**Backend:** Node.js, TypeScript, Express/Fastify, JWT, WebSockets.
+**Frontend:** React, Next.js, Vite, TailwindCSS.
+**Banco de Dados:** MySQL, PostgreSQL, SQLite, Redis.
+**Infra:** Linux, Docker, Git, GitHub Actions.
 
 ---
 
 ## 🔒 Projetos
 
-Grande parte dos projetos é privada por contrato.
+Privados por contrato, mas incluem:
 
-Mas o que posso afirmar:
-
-* Sistemas completos para cidades FiveM
+* Cidades completas em FiveM
 * Bots e painéis administrativos
-* Integrações externas com autenticação segura
+* APIs seguras e integradas
 * Infraestrutura pronta para produção
 
-Nada aqui é script solto.
-É sistema.
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>>
+Nada é script solto. É sistema.
 
 ---
 
@@ -131,8 +54,4 @@ Nada aqui é script solto.
   </a>
 </p>
 
-Projetos sérios.
-Cidades estruturadas.
-Sistemas que precisam de base forte.
-
-Se for para fazer, fazemos direito.
+**Projetos sérios. Sistemas estáveis. Se é para fazer, fazemos direito.**
