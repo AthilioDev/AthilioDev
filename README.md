@@ -10,3 +10,6 @@
 * 📫 Reach me: **[athilio@devmail.com](mailto:athilio@devmail.com)**
 * ⚡ Fun fact: I enjoy **optimizing systems and building scalable game servers**
 * 💡 Life is like code: full of bugs, updates, and lessons — every error is a lesson, every success a stable release.
+
+
+165 contributions in the last year
