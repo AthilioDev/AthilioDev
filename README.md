@@ -1,3 +1,4 @@
+
 # ⚙️ Athilio — FiveM & Backend
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AthilioDev\&style=flat-square)
@@ -19,7 +20,7 @@ Foco: **performance, estabilidade e arquitetura sólida**.
 
 ---
 
-## 🔒 Projetos
+## 🎮 Projetos
 
 * Cidades completas FiveM
 * Bots e painéis administrativos
@@ -31,9 +32,7 @@ Nada solto. Tudo sistema.
 
 ## 📬 Contato
 
-<p align="center">
-  ✉️ [Discord](https://discord.gg/mrB2XccvXt) &nbsp;&nbsp;  
-  📸 [Instagram](https://www.instagram.com/seuusuario) &nbsp;&nbsp;  
-  💼 [LinkedIn](https://www.linkedin.com/in/seuusuario) &nbsp;&nbsp;  
-  👍 [Facebook](https://www.facebook.com/seuusuario)  
-</p>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/mrB2XccvXt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/seuusuario)
