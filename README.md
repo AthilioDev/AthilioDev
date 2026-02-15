@@ -7,7 +7,7 @@
 * 🌱 Learning and experimenting with **Node.js, TypeScript, Lua, React**
 * 👯 Open to **collaboration on game systems, APIs, and backend projects**
 * 💬 Ask me about **FiveM, Lua, Node.js, WebSockets, Databases, API Architecture**
-* 📫 Reach me: **[athilio@devmail.com](mailto:athilio@devmail.com)**
+* 📫 Reach me: **[athilio@dev.com](mailto:athilio@devmail.com)**
 * ⚡ Fun fact: I enjoy **optimizing systems and building scalable game servers**
 * 💡 Life is like code: full of bugs, updates, and lessons — every error is a lesson, every success a stable release.
 
